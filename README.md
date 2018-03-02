@@ -5,8 +5,6 @@
 run: 
   <code>
     npm install 
-  </code>
- 
- to install the dependencies. <br>
+  </code> to install the dependencies. <br>
  Open localhost:3000 on your browser and have fun
 </p>
