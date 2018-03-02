@@ -4,7 +4,7 @@
 <p>Download or clone the repository. With node and npm installed <br>
 run: 
   <code>
-  ` npm install` 
+    npm install 
   </code>
  
  to install the dependencies. <br>
